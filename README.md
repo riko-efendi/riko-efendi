@@ -5,5 +5,5 @@
 * 💻 HTML, CSS, JS
 
 ### Reach ME
-[![Instagram Badge](https://img.shields.io/badge/-Riko Efendi-0e76a8?style=flat&labelColor=0e76a8&logo=instagram&logoColor=white)](https://instagram.com/riko_efendi)
-[![Linkedin Badge](https://img.shields.io/badge/-Riko Efendi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikoefendi/)
+[![Instagram Badge](https://img.shields.io/badge/-Riko Efendi-0e76a8?style=flat&labelColor=0e76a8&logo=instagram&logoColor=white)](https://instagram.com/riko_efendi) [![Mail Badge]
+[![Linkedin Badge](https://img.shields.io/badge/-Riko Efendi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikoefendi/) [![Mail Badge]
