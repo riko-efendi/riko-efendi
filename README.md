@@ -5,4 +5,4 @@
 * 💻 HTML, CSS, JS
 
 ### Reach ME
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikoefendi/)
+[![Linkedin Badge](https://img.shields.io/badge/-RikoEfendi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikoefendi/)
