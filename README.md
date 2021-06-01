@@ -6,3 +6,4 @@
 
 ### Reach ME
 [![Linkedin Badge](https://img.shields.io/badge/-RikoEfendi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikoefendi/)
+[![Mail Badge](https://img.shields.io/badge/-@riko_efendi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riko_efendi)
