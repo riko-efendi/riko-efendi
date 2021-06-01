@@ -25,6 +25,6 @@
 [html]: https://www.w3schools.com/html
 [css]: https://www.w3schools.com/css
 [javascript]: https://www.w3schools.com/javascript
-[react]: https://https://reactjs.org/
+[react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
