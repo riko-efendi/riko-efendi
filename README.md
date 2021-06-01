@@ -12,6 +12,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 ### Reach ME
 [![Linkedin Badge](https://img.shields.io/badge/-RikoEfendi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 [![Mail Badge](https://img.shields.io/badge/-@riko_efendi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)][instagram]
