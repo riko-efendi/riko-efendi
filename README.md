@@ -1,4 +1,4 @@
-### Hi there, I'm Riko Efendi 👋
+## Hi there, I'm Riko Efendi 👋
 
-## Skill & Experiences
+### Skill & Experiences
 * 💻 HTML, CSS, JS
